@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><module fritzingVersion="0.3.5b.07.02.3238" moduleId="BeagleBoneA5">
+    <version>1</version>
+    <author>Matt Porter</author>
+    <title>BeagleBone</title>
+    <label>BeagleBone</label>
+    <date>2012-04-11</date>
+    <tags>
+        <tag>Beagleboard.org</tag>
+        <tag>BeagleBone</tag>
+        <tag>fritzing user</tag>
+    </tags>
+    <properties>
+        <property name="family">Microprocessor Board (BeagleBone)</property>
+        <property name="processor">AM335x</property>
+        <property name="variant">BeagleBone A5</property>
+    </properties>
+    <description>The ubiquitous BeagleBone board</description>
+    <views>
+        <iconView>
+            <layers image="icon/icon-beaglebone-a5.svg">
+                <layer layerId="icon"/>
+            </layers>
+        </iconView>
+        <breadboardView>
+            <layers image="breadboard/breadboard-beaglebone-a5.svg">
+                <layer layerId="breadboardbreadboard"/>
+            </layers>
+        </breadboardView>
+    </views>
+
+    <connectors>
+        <connector id="connectorp6-1" name="BAT 1" type="female">
+            <description>BAT signal</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp6-1pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+
+        <connector id="connectorp6-2" name="BAT 2" type="female">
+            <description>BAT signal</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp6-2pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+    </connectors>
+
+  <buses>
+    <bus id="bat">
+      <nodeMember connectorId="connectorp6-1"/>
+      <nodeMember connectorId="connectorp6-2"/>
+    </bus>
+  </buses>
+
+</module>

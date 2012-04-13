@@ -29,20 +29,133 @@
     </views>
 
     <connectors>
-        <connector id="connectorp6-1" name="BAT 1" type="female">
-            <description>BAT signal</description>
+        <connector id="connectorp6-1" name="P6-1" type="female">
+            <description>BAT</description>
             <views>
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp6-1pin"/>
                 </breadboardView>
             </views>
 	</connector>
-
-        <connector id="connectorp6-2" name="BAT 2" type="female">
-            <description>BAT signal</description>
+        <connector id="connectorp6-2" name="P6-2" type="female">
+            <description>BAT</description>
             <views>
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp6-2pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp6-3" name="P6-3" type="female">
+            <description>BAT_SENSE</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp6-3pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp6-4" name="P6-4" type="female">
+            <description>BAT_TEMP</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp6-4pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp6-5" name="P6-5" type="female">
+            <description>BL_ISET2</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp6-5pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp6-6" name="P6-6" type="female">
+            <description>BL_ISET1</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp6-6pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp6-7" name="P6-7" type="female">
+            <description>BL_OUT</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp6-7pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp6-8" name="P6-8" type="female">
+            <description>BL_IN</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp6-8pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp6-9" name="P6-9" type="female">
+            <description>BL_SINK1</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp6-9pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp6-10" name="P6-10" type="female">
+            <description>BL_SINK2</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp6-10pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+
+        <connector id="connectorp8-1" name="P8-1" type="female">
+            <description>Ground</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-1pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-2" name="P8-2" type="female">
+            <description>Ground</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-2pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-3" name="P8-3" type="female">
+            <description>M0:gpmc_ad6 / M1:mmc1_dat6 / M7:GPIO1[6]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-3pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-4" name="P8-4" type="female">
+            <description>M0:gpmc_ad7 / M1:mmc1_dat7 / M7:GPIO1[7]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-4pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+
+        <connector id="connectorp9-1" name="P9-1" type="female">
+            <description>Ground</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-1pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-2" name="P9-2" type="female">
+            <description>Ground</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-2pin"/>
                 </breadboardView>
             </views>
 	</connector>
@@ -52,6 +165,12 @@
     <bus id="bat">
       <nodeMember connectorId="connectorp6-1"/>
       <nodeMember connectorId="connectorp6-2"/>
+    </bus>
+    <bus id="ground">
+      <nodeMember connectorId="connectorp8-1"/>
+      <nodeMember connectorId="connectorp8-2"/>
+      <nodeMember connectorId="connectorp9-1"/>
+      <nodeMember connectorId="connectorp9-2"/>
     </bus>
   </buses>
 

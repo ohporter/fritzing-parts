@@ -37,9 +37,24 @@
   </metadata>
 
 <g id="breadboardbreadboard">
-  <rect id="connectorp6-1pin" x="30.650" y="53.717" width="9.000" height="9.000"/>
-  <rect id="connectorp6-2pin" x="30.650" y="62.717" width="9.000" height="9.000"/>
+  <rect id="connectorp6-1pin" x="30.650" y="130.783" width="9.000" height="9.000"/>
+  <rect id="connectorp6-2pin" x="30.650" y="121.783" width="9.000" height="9.000"/>
+  <rect id="connectorp6-3pin" x="39.650" y="130.783" width="9.000" height="9.000"/>
+  <rect id="connectorp6-4pin" x="39.650" y="121.783" width="9.000" height="9.000"/>
+  <rect id="connectorp6-5pin" x="48.650" y="130.783" width="9.000" height="9.000"/>
+  <rect id="connectorp6-6pin" x="48.650" y="121.783" width="9.000" height="9.000"/>
+  <rect id="connectorp6-7pin" x="57.650" y="130.783" width="9.000" height="9.000"/>
+  <rect id="connectorp6-8pin" x="57.650" y="121.783" width="9.000" height="9.000"/>
+  <rect id="connectorp6-9pin" x="66.650" y="130.783" width="9.000" height="9.000"/>
+  <rect id="connectorp6-10pin" x="66.650" y="121.783" width="9.000" height="9.000"/>
 
+  <rect id="connectorp8-1pin" x="74.409" y="10.959" width="9.000" height="9.000"/>
+  <rect id="connectorp8-2pin" x="74.409" y="1.959" width="9.000" height="9.000"/>
+  <rect id="connectorp8-3pin" x="83.409" y="10.959" width="9.000" height="9.000"/>
+  <rect id="connectorp8-4pin" x="83.409" y="1.959" width="9.000" height="9.000"/>
+
+  <rect id="connectorp9-1pin" x="74.409" y="182.285" width="9.000" height="9.000"/>
+  <rect id="connectorp9-2pin" x="74.409" y="173.285" width="9.000" height="9.000"/>
   <g
      transform="translate(0,-858.8623)"
      id="layer1">

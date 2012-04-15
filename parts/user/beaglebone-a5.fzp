@@ -142,6 +142,342 @@
                 </breadboardView>
             </views>
 	</connector>
+        <connector id="connectorp8-5" name="P8-5" type="female">
+            <description>M0:gpmc_ad2 / M1:mmc1_dat2 / M7:GPIO1[2]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-5pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-6" name="P8-6" type="female">
+            <description>M0:gpmc_ad3 / M1:mmc1_dat6 / M7:GPIO1[3]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-6pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-7" name="P8-7" type="female">
+            <description>M0:gpmc_advn_ale / M2:timer4 / M7:GPIO2[2]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-7pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-8" name="P8-8" type="female">
+            <description>M0:gpmc_oen_ren / M2:timer7 / M7:GPIO2[3]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-8pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-9" name="P8-9" type="female">
+            <description>M0:gpmc_be0n_cle / M2:timer5 / M7:GPIO2[5]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-9pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-10" name="P8-10" type="female">
+            <description>M0:gpmc_wen / M2:timer6 / M7:GPIO2[4]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-10pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-11" name="P8-11" type="female">
+            <description>M0:gpmc_ad13 / M1:lcd_data18 / M2:mmc1_dat5 / M3:mmc2_dat1 / M4:eQEP2B_in / M7:GPIO1[13]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-11pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-12" name="P8-12" type="female">
+            <description>M0:gpmc_ad12 / M1:lcd_data19 / M2:mmc1_dat4 / M3:mmc2_dat0 / M4:eQEP2A_in / M7:GPIO1[12]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-12pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-13" name="P8-13" type="female">
+            <description>M0:gpmc_ad9 / M1:lcd_data22 / M2:mmc1_dat1 / M3:mmc2_dat5 / M4:ehrpwm2B / M7:GPIO0[23]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-13pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-14" name="P8-14" type="female">
+            <description>M0:gpmc_ad10 / M1:lcd_data21 / M2:mmc1_dat2 / M3:mmc2_dat6 / M4:ehrpwm2_tripzone_in / M7:GPIO0[26]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-14pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-15" name="P8-15" type="female">
+            <description>M0:gpmc_ad15 / M1:lcd_data16 / M2:mmc1_dat7 / M3:mmc2_dat3 / M4:eQEP2_strobe / M7:GPIO1[15]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-15pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-16" name="P8-16" type="female">
+            <description>M0:gpmc_ad14 / M1:lcd_data17 / M2:mmc1_dat6 / M3:mmc2_dat2 / M4:eQEP2_index / M7:GPIO1[14]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-16pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-17" name="P8-17" type="female">
+            <description>M0:gpmc_ad11 / M1:lcd_data20 / M2:mmc1_dat3 / M3:mmc2_dat7 / M4:ehrpwm0_synco / M7:GPIO0[27]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-17pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-18" name="P8-18" type="female">
+            <description>M0:gpmc_clk_mux0 / M1:lcd_memory_clk / gpmc_wait1 / M3:mmc2_clk / M6:mcasp0_fsr / M7:GPIO2[1]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-18pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-19" name="P8-19" type="female">
+            <description>M0:gpmc_ad8 / M1:lcd_data23 / M2:mmc1_dat0 / M3:mmc2_dat4 / M4:ehrpwm2A / M7:GPIO0[22]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-19pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-20" name="P8-20" type="female">
+            <description>M0:gpmc_csn2 / M1:gpmc_be1n / M2:mmc1_cmd / M7:GPIO1[31]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-20pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-21" name="P8-21" type="female">
+            <description>M0:gpmc_csn1 / M1:gpmc_clk / M2:mmc1_clk / M7:GPIO1[30]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-21pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-22" name="P8-22" type="female">
+            <description>M0:gpmc_ad5 / M2:mmc1_dat5 / M7:GPIO1[5]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-22pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-23" name="P8-23" type="female">
+            <description>M0:gpmc_ad4 / M1:mmc1_dat3 / M7:GPIO1[4]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-23pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-24" name="P8-24" type="female">
+            <description>M0:gpmc_ad1 / M1:mmc1_dat1 / M7:GPIO1[1]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-24pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-25" name="P8-25" type="female">
+            <description>M0:gpmc_ad0 / M1:mmc1_dat0 / M7:GPIO1[0]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-25pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-26" name="P8-26" type="female">
+            <description>M0:gpmc_csn0 / M7:GPIO1[29]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-26pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-27" name="P8-27" type="female">
+            <description>M0:lcd_vsync / M1:gpmc_a8 / M7:GPIO2[22]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-27pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-28" name="P8-28" type="female">
+            <description>M0:lcd_pclk / M1:gpmc_a10 / M7:GPIO2[24]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-28pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-29" name="P8-29" type="female">
+            <description>M0:lcd_hsync / M1:gpmc_a9 / M7:GPIO2[23]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-29pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-30" name="P8-30" type="female">
+            <description>M0:lcd_ac_bias_en / M1:gpmc_a11 / M7:GPIO2[25]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-30pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-31" name="P8-31" type="female">
+            <description>M0:lcd_data14 / M1:gpmc_a18 / M2:eQEP1_index / M3:mcasp0_axr1 / M4:uart5_rxd / M6:uart5_ctsn / M7:GPIO0[10]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-31pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-32" name="P8-32" type="female">
+            <description>M0:lcd_data15 / M1:gpmc_a19 / M2:eQEP1_strobe / M3:mcasp0_ahclkx / M4:mcasp0_axr3 / M6:uart5_rtsn / M7:GPIO0[11]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-32pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-33" name="P8-33" type="female">
+            <description>M0:lcd_data13 / M1:gpmc_a17 / M2:eQEP1B_in / M3:mcasp0_fsr / M4:mcasp0_axr3 / M6:uart4_rtsn / M7:GPIO0[9]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-33pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-34" name="P8-34" type="female">
+            <description>M0:lcd_data11 / M1:gpmc_a15 / M2:ehrpwm1B / M3:mcasp0_ahclkr / M4:mcasp0_axr2 / M6:uart3_rtsn / M7:GPIO2[17]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-34pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-35" name="P8-35" type="female">
+            <description>M0:lcd_data12 / M1:gpmc_a16 / M2:eQEP1A_in / M3:mcasp0_aclkr / M4:mcasp0_axr2 / M6:uart4_ctsn / M7:GPIO0[8]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-35pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-36" name="P8-36" type="female">
+            <description>M0:lcd_data10 / M1:gpmc_a14 / M2:ehrpwm1A / M3:mcasp0_axr0 / M6:uart3_ctsn / M7:GPIO2[16]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-36pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-37" name="P8-37" type="female">
+            <description>M0:lcd_data8 / M1:gpmc_a12 / M2:ehrpwm1_tripzone_in / M3:mcasp0_aclkx / M4:uart5_txd / M6:uart2_ctsn / M7:GPIO2[14]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-37pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-38" name="P8-38" type="female">
+            <description>M0:lcd_data9 / M1:gpmc_a13 / M2:ehrpwm0_synco / M3:mcasp0_fsx / M4:uart5_rxd / M6:uart2_rtsn / M7:GPIO2[15]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-38pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-39" name="P8-39" type="female">
+            <description>M0:lcd_data6 / M1:gpmc_a6 / M3:eQEP2_index / M7:GPIO2[12]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-39pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-40" name="P8-40" type="female">
+            <description>M0:lcd_data7 / M1:gpmc_a7 / M3:eQEP2_strobe / M4:pr1_edio_data_out7 / M7:GPIO2[13]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-40pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-41" name="P8-41" type="female">
+            <description>M0:lcd_data4 / M1:gpmc_a4 / M3:eQEP2A_in / M7:GPIO2[10]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-41pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-42" name="P8-42" type="female">
+            <description>M0:lcd_data5 / M1:gpmc_a5 / M3:eQEP2B_in / M7:GPIO2[11]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-42pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-43" name="P8-43" type="female">
+            <description>M0:lcd_data2 / M1:gpmc_a2 / M3:ehrpwm2_tripzone_in / M7:GPIO2[8]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-43pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-44" name="P8-44" type="female">
+            <description>M0:lcd_data3 / M1:gpmc_a3 / M3:ehrpwm0_synco / M7:GPIO2[9]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-44pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-45" name="P8-45" type="female">
+            <description>M0:lcd_data0 / M1:gpmc_a0 / M3:ehrpwm2A / M7:GPIO2[6]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-45pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp8-46" name="P8-46" type="female">
+            <description>M0:lcd_data1 / M1:gpmc_a1 / M3:ehrpwm2B / M7:GPIO2[7]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp8-46pin"/>
+                </breadboardView>
+            </views>
+	</connector>
 
         <connector id="connectorp9-1" name="P9-1" type="female">
             <description>Ground</description>

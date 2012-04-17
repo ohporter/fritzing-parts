@@ -495,6 +495,359 @@
                 </breadboardView>
             </views>
 	</connector>
+        <connector id="connectorp9-3" name="P9-3" type="female">
+            <description>DC_3.3V</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-3pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-4" name="P9-4" type="female">
+            <description>DC_3.3V</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-4pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-5" name="P9-5" type="female">
+            <description>VDD_5V</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-5pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-6" name="P9-6" type="female">
+            <description>VDD_5V</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-6pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-7" name="P9-7" type="female">
+            <description>SYS_5V</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-7pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-8" name="P9-8" type="female">
+            <description>SYS_5V</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-8pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-9" name="P9-9" type="female">
+            <description>PWR_BUT</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-9pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-10" name="P9-10" type="female">
+            <description>RESET_OUT</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-10pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-11" name="P9-11" type="female">
+            <description>M0:gpmc_wait0 / M1:mii2_crs / M2:gpmc_csn4 / M3:rM3:mii2_crs_dv / M4:mmc1_sdcd / M6:uart4_rxd_mux2 / M7:GPIO0[30]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-11pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-12" name="P9-12" type="female">
+            <description>M0:gpmc_be1n / M1:mii2_col / M2:gpmc_csn6 / M3:mmc2_dat3 / M4:gpmc_dir / M6:mcasp0_aclkr_mux3 / M7:GPIO1[28]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-12pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-13" name="P9-13" type="female">
+            <description>M0:gpmc_wpn / M1:mii2_rxerr / M2:gpmc_csn5 / M3:rM3:mii2_rxerr / M4:mmc2_sdcd / M6:uart4_txd_mux2 / M7:GPIO0[31]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-13pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-14" name="P9-14" type="female">
+            <description>M0:gpmc_a2 / M1:mii2_txd3 / M2:rgmii2_td3 / M3:mmc2_dat1 / M4:gpmc_a18 / M6:ehrpwm1A_mux1 / M7:GPIO1[18]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-14pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-15" name="P9-15" type="female">
+            <description>M0:gpmc_a0 / M1:gmii2_txen / M2:rmii2_tctl / M3:mii2_txen / M4:gpmc_a16 / M6:ehrpwm1_tripzone_input / M7:GPIO1[16]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-15pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-16" name="P9-16" type="female">
+            <description>M0:gpmc_a3 / M1:mii2_txd2 / M2:rgmii2_td2 / M3:mmc2_dat2 / M4:gpmc_a19 / M6:ehrpwm1B_mux1 / M7:GPIO1[19]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-16pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-17" name="P9-17" type="female">
+            <description>M0:spi0_cs0 / M1:mmc2_sdwp / M2:I2C1_SCL / M3:ehrpwm0_synci / M7:GPIO0[5]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-17pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-18" name="P9-18" type="female">
+            <description>M0:spi0_d1 / M1:mmc1_sdwp / M2:I2C1_SDA / M3:ehrpwm0_tripzone / M7:GPIO0[4]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-18pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-19" name="P9-19" type="female">
+            <description>M0:uart1_rtsn / M1:timer5 / M2:dcan0_rx / M3:I2C2_SCL / M4:spi1_cs1 / M7:GPIO0[13]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-19pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-20" name="P9-20" type="female">
+            <description>M0:uart1_ctsn / M1:timer6 / M2:dcan0_tx / M3:I2C2_SDA / M4:spi1_cs0 / M7:GPIO0[12]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-20pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-21" name="P9-21" type="female">
+            <description>M0:spi0_d0 / M1:uart2_txd / M2:I2C2_SCL / M3:ehrpwm0B / M6:emu3_mux1 / M7:GPIO0[3]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-21pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-22" name="P9-22" type="female">
+            <description>M0:spi0_sclk / M1:uart2_rxd / M2:I2C2_SDA / M3:ehrpwm0A / M6:emu2_mux1 / M7:GPIO0[2]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-22pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-23" name="P9-23" type="female">
+            <description>M0:gpmc_a1 / M1:gmii2_rxdv / M2:rgmii2_rxdv / M3:mmc2_dat0 / M4:gpmc_a17 / M6:ehrpwm0_synco / M7:GPIO1[17]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-23pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-24" name="P9-24" type="female">
+            <description>M0:uart1_txd / M1:mmc2_sdwp / M2:dcan1_rx / M3:I2C1_SCL / M7:GPIO0[15]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-24pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-25" name="P9-25" type="female">
+            <description>M0:mcasp0_ahclkx / M1:eQEP0_strobe / M2:mcasp0_axr3 / M3:mcasp1_axr1 / M4:emu4_mux2 / M7:GPIO3[21]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-25pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-26" name="P9-26" type="female">
+            <description>M0:uart1_rxd / M1:mmc1_sdwp / M2:dcan1_tx / M3:I2C1_SDA / M7:GPIO0[14]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-26pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-27" name="P9-27" type="female">
+            <description>M0:mcasp0_fsr / M1:eQEP0B_in / M2:mcasp0_axr3 / M3:mcasp1_fsx / M4:emu2_mux2 / M7:GPIO3[19]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-27pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-28" name="P9-28" type="female">
+            <description>M0:mcasp0_ahclkr / M1:ehrpwm0_synci / M2:mcasp0_axr2 / M3:spi1_cs0 / M4:eCAP2_in_PWM2_out / M7:GPIO3[17]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-28pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-29" name="P9-29" type="female">
+            <description>M0:mcasp0_fsx / M1:ehrpwm0B / M3:spi1_d0 / M4:mmc1_sdcd_mux1 / M7:GPIO3[15]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-29pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-30" name="P9-30" type="female">
+            <description>M0:mcasp0_axr0 / M1:ehrpwm0_tripzone / M3:spi1_d1 / M4:mmc2_sdcd_mux1 / M7:GPIO3[16]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-30pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-31" name="P9-31" type="female">
+            <description>M0:mcasp0_aclkx / M1:ehrpwm0A / M3:spi1_sclk / M4:mmc0_sdcd_mux1 / M7:GPIO3[14]</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-31pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-32" name="P9-32" type="female">
+            <description>VDD_ADC</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-32pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-33" name="P9-33" type="female">
+            <description>AIN4</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-33pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-34" name="P9-34" type="female">
+            <description>GND_ADC</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-34pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-35" name="P9-35" type="female">
+            <description>AIN6</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-35pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-36" name="P9-36" type="female">
+            <description>AIN5</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-36pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-37" name="P9-37" type="female">
+            <description>AIN2</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-37pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-38" name="P9-38" type="female">
+            <description>AIN3</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-38pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-39" name="P9-39" type="female">
+            <description>AIN0</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-39pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-40" name="P9-40" type="female">
+            <description>AIN1</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-40pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-41" name="P9-41" type="female">
+            <description>M0:xdma_event_intr1 / M2:tclkin / M3:clkout2</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-41pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-42" name="P9-42" type="female">
+            <description>M0:eCAP0_in_PWM0_out / M1:uart3_txd / M2:spi1_cs1 / M3:pr1_ecap0_ecap_capin_apwm_o</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-42pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-43" name="P9-43" type="female">
+            <description>Ground</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-43pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-44" name="P9-44" type="female">
+            <description>Ground</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-44pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-45" name="P9-45" type="female">
+            <description>Ground</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-45pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="connectorp9-46" name="P9-46" type="female">
+            <description>Ground</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="connectorp9-46pin"/>
+                </breadboardView>
+            </views>
+	</connector>
+
     </connectors>
 
   <buses>
@@ -507,6 +860,22 @@
       <nodeMember connectorId="connectorp8-2"/>
       <nodeMember connectorId="connectorp9-1"/>
       <nodeMember connectorId="connectorp9-2"/>
+      <nodeMember connectorId="connectorp9-43"/>
+      <nodeMember connectorId="connectorp9-44"/>
+      <nodeMember connectorId="connectorp9-45"/>
+      <nodeMember connectorId="connectorp9-46"/>
+    </bus>
+    <bus id="DC_3.3V">
+      <nodeMember connectorId="connectorp9-3"/>
+      <nodeMember connectorId="connectorp9-4"/>
+    </bus>
+    <bus id="VDD_5V">
+      <nodeMember connectorId="connectorp9-5"/>
+      <nodeMember connectorId="connectorp9-6"/>
+    </bus>
+    <bus id="SYS_5V">
+      <nodeMember connectorId="connectorp9-7"/>
+      <nodeMember connectorId="connectorp9-8"/>
     </bus>
   </buses>
 

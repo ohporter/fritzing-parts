@@ -1,0 +1,1893 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   id="Schematic"
+   x="0px"
+   y="0px"
+   width="496.06299"
+   height="1381.8898"
+   viewBox="1.75 0.067 496.063 1381.8898"
+   xml:space="preserve"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="beaglebone-schematic.svg"><metadata
+   id="metadata223"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs221">
+   <rect id="connectorp6-1pin" x="125.849" y="1328" fill="none" width="2.1" height="10.488"/>
+   <rect id="connectorp6-2pin" x="152.472" y="1328" fill="none" width="2.1" height="10.488"/>
+   <rect id="connectorp6-3pin" x="179.095" y="1328" fill="none" width="2.1" height="10.488"/>
+   <rect id="connectorp6-4pin" x="205.718" y="1328" fill="none" width="2.1" height="10.488"/>
+   <rect id="connectorp6-5pin" x="232.341" y="1328" fill="none" width="2.1" height="10.488"/>
+   <rect id="connectorp6-6pin" x="258.964" y="1328" fill="none" width="2.1" height="10.488"/>
+   <rect id="connectorp6-7pin" x="285.587" y="1328" fill="none" width="2.1" height="10.488"/>
+   <rect id="connectorp6-8pin" x="312.210" y="1328" fill="none" width="2.1" height="10.488"/>
+   <rect id="connectorp6-9pin" x="338.833" y="1328" fill="none" width="2.1" height="10.488"/>
+   <rect id="connectorp6-10pin" x="365.456" y="1328" fill="none" width="2.1" height="10.488"/>
+
+   <rect id="connectorp8-1pin" x="64.849" y="66.437" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-2pin" x="64.849" y="93.06" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-3pin" x="64.849" y="119.683" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-4pin" x="64.849" y="146.306" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-5pin" x="64.849" y="172.929" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-6pin" x="64.849" y="199.552" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-7pin" x="64.849" y="226.175" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-8pin" x="64.849" y="252.798" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-9pin" x="64.849" y="279.421" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-10pin" x="64.849" y="306.044" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-11pin" x="64.849" y="332.667" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-12pin" x="64.849" y="359.290" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-13pin" x="64.849" y="385.913" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-14pin" x="64.849" y="412.536" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-15pin" x="64.849" y="439.159" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-16pin" x="64.849" y="465.782" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-17pin" x="64.849" y="492.405" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-18pin" x="64.849" y="519.028" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-19pin" x="64.849" y="545.651" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-20pin" x="64.849" y="572.274" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-21pin" x="64.849" y="598.897" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-22pin" x="64.849" y="625.52" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-23pin" x="64.849" y="652.143" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-24pin" x="64.849" y="678.766" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-25pin" x="64.849" y="705.389" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-26pin" x="64.849" y="732.012" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-27pin" x="64.849" y="758.635" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-28pin" x="64.849" y="785.258" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-29pin" x="64.849" y="811.881" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-30pin" x="64.849" y="838.504" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-31pin" x="64.849" y="865.127" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-32pin" x="64.849" y="891.750" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-33pin" x="64.849" y="918.373" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-34pin" x="64.849" y="944.996" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-35pin" x="64.849" y="971.619" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-36pin" x="64.849" y="998.242" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-37pin" x="64.849" y="1024.865" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-38pin" x="64.849" y="1051.488" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-39pin" x="64.849" y="1078.111" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-40pin" x="64.849" y="1104.734" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-41pin" x="64.849" y="1131.357" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-42pin" x="64.849" y="1157.980" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-43pin" x="64.849" y="1184.603" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-44pin" x="64.849" y="1211.226" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-45pin" x="64.849" y="1237.849" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp8-46pin" x="64.849" y="1264.472" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-1pin" x="418.849" y="66.437" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-2pin" x="418.849" y="93.06" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-3pin" x="418.849" y="119.683" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-4pin" x="418.849" y="146.306" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-5pin" x="418.849" y="172.929" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-6pin" x="418.849" y="199.552" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-7pin" x="418.849" y="226.175" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-8pin" x="418.849" y="252.798" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-9pin" x="418.849" y="279.421" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-10pin" x="418.849" y="306.044" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-11pin" x="418.849" y="332.667" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-12pin" x="418.849" y="359.290" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-13pin" x="418.849" y="385.913" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-14pin" x="418.849" y="412.536" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-15pin" x="418.849" y="439.159" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-16pin" x="418.849" y="465.782" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-17pin" x="418.849" y="492.405" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-18pin" x="418.849" y="519.028" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-19pin" x="418.849" y="545.651" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-20pin" x="418.849" y="572.274" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-21pin" x="418.849" y="598.897" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-22pin" x="418.849" y="625.52" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-23pin" x="418.849" y="652.143" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-24pin" x="418.849" y="678.766" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-25pin" x="418.849" y="705.389" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-26pin" x="418.849" y="732.012" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-27pin" x="418.849" y="758.635" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-28pin" x="418.849" y="785.258" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-29pin" x="418.849" y="811.881" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-30pin" x="418.849" y="838.504" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-31pin" x="418.849" y="865.127" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-32pin" x="418.849" y="891.750" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-33pin" x="418.849" y="918.373" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-34pin" x="418.849" y="944.996" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-35pin" x="418.849" y="971.619" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-36pin" x="418.849" y="998.242" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-37pin" x="418.849" y="1024.865" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-38pin" x="418.849" y="1051.488" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-39pin" x="418.849" y="1078.111" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-40pin" x="418.849" y="1104.734" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-41pin" x="418.849" y="1131.357" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-42pin" x="418.849" y="1157.980" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-43pin" x="418.849" y="1184.603" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-44pin" x="418.849" y="1211.226" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-45pin" x="418.849" y="1237.849" fill="none" width="10.488" height="2.1"/>
+   <rect id="connectorp9-46pin" x="418.849" y="1264.472" fill="none" width="10.488" height="2.1"/>
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	
+	
+
+		
+		
+	
+		
+		
+	
+						
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+		
+		
+			
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+			
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+	
+			
+				
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+		</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1645"
+   inkscape:window-height="958"
+   id="namedview219"
+   showgrid="true"
+   inkscape:zoom="2.5564863"
+   inkscape:cx="200.81359"
+   inkscape:cy="1230.7588"
+   inkscape:window-x="0"
+   inkscape:window-y="30"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Schematic"
+   showguides="true"
+   inkscape:guide-bbox="true"
+   units="mm"><inkscape:grid
+     type="xygrid"
+     id="grid3940"
+     empspacing="5"
+     visible="true"
+     enabled="true"
+     snapvisiblegridlinesonly="true" /></sodipodi:namedview>
+
+
+
+
+
+
+<text
+   style="font-size:18px;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DroidSans"
+   id="text5"
+   font-size="18"
+   x="250.09521"
+   y="121.95676"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan6198"
+     x="196.75"
+     y="121.95676"
+     style="text-anchor:middle;text-align:center">BeagleBone</tspan><tspan
+     sodipodi:role="line"
+     id="tspan6200"
+     x="196.75"
+     y="144.45676"
+     style="text-anchor:middle;text-align:center">A5</tspan></text>
+
+<text
+   style="font-size:18px;font-family:DroidSans"
+   font-size="18"
+   x="196.75"
+   y="121.95676"
+   id="text6196"> </text>
+
+<text
+   style="font-size:10px;font-family:DroidSans"
+   id="text11"
+   font-size="10"
+   transform="matrix(-4.371139e-8,-1,1,-4.371139e-8,0,0)"
+   x="-701.95679"
+   y="356.74997">P9 Connector</text>
+
+<rect
+   style="fill:none;stroke:#000000;stroke-width:4.72577286;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+   id="rect135"
+   height="1260.793"
+   width="310.98807"
+   y="51.16386"
+   x="93.369881" /><text
+   style="font-size:10px;font-family:DroidSans"
+   id="text8-8"
+   font-size="10"
+   x="373.92487"
+   y="71.292877">P9-1</text>
+
+<g
+   transform="matrix(1.1231957,0,0,1,162.5636,-52.932435)"
+   id="g19-3"><line
+     x1="216.138"
+     y1="120.194"
+     x2="237.39799"
+     y2="120.194"
+     id="line21-8"
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" /></g><g
+   id="g3163"
+   transform="translate(111.0886,-30.241997)" /><text
+   style="font-size:10px;font-family:DroidSans"
+   id="text11-1"
+   font-size="10"
+   x="631.95679"
+   y="-141.75"
+   transform="matrix(0,1,-1,0,0,0)">P8 Connector</text>
+
+<text
+   y="97.916328"
+   x="373.92487"
+   font-size="10"
+   id="text4388"
+   style="font-size:10px;font-family:DroidSans">P9-2</text>
+
+<g
+   id="g4390"
+   transform="matrix(1.1231957,0,0,1,162.5636,-26.308998)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4392"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="124.53976"
+   x="373.92487"
+   font-size="10"
+   id="text4036"
+   style="font-size:10px;font-family:DroidSans">P9-3</text>
+
+<g
+   id="g4038"
+   transform="matrix(1.1231957,0,0,1,162.5636,0.31443894)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4040"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="151.16318"
+   x="373.92487"
+   font-size="10"
+   id="text4380"
+   style="font-size:10px;font-family:DroidSans">P9-4</text>
+
+<g
+   id="g4382"
+   transform="matrix(1.1231957,0,0,1,162.5636,26.937877)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4384"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="177.78662"
+   x="373.92487"
+   font-size="10"
+   id="text4044"
+   style="font-size:10px;font-family:DroidSans">P9-5</text>
+
+<g
+   id="g4046"
+   transform="matrix(1.1231957,0,0,1,162.5636,53.561317)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4048"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="204.41005"
+   x="373.92487"
+   font-size="10"
+   id="text4052"
+   style="font-size:10px;font-family:DroidSans">P9-6</text>
+
+<g
+   id="g4054"
+   transform="matrix(1.1231957,0,0,1,162.5636,80.184745)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4056"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="231.03349"
+   x="373.92487"
+   font-size="10"
+   id="text4060"
+   style="font-size:10px;font-family:DroidSans">P9-7</text>
+
+<g
+   id="g4062"
+   transform="matrix(1.1231957,0,0,1,162.5636,106.80818)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4064"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="257.65695"
+   x="373.92487"
+   font-size="10"
+   id="text4068"
+   style="font-size:10px;font-family:DroidSans">P9-8</text>
+
+<g
+   id="g4070"
+   transform="matrix(1.1231957,0,0,1,162.5636,133.43162)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4072"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="284.2804"
+   x="373.92487"
+   font-size="10"
+   id="text4076"
+   style="font-size:10px;font-family:DroidSans">P9-9</text>
+
+<g
+   id="g4078"
+   transform="matrix(1.1231957,0,0,1,162.5636,160.05506)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4080"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="310.90384"
+   x="373.92487"
+   font-size="10"
+   id="text4084"
+   style="font-size:10px;font-family:DroidSans">P9-10</text>
+
+<g
+   id="g4086"
+   transform="matrix(1.1231957,0,0,1,162.5636,186.67849)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4088"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="337.52728"
+   x="373.92487"
+   font-size="10"
+   id="text4092"
+   style="font-size:10px;font-family:DroidSans">P9-11</text>
+
+<g
+   id="g4094"
+   transform="matrix(1.1231957,0,0,1,162.5636,213.30193)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4096"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="364.15073"
+   x="373.92487"
+   font-size="10"
+   id="text4100"
+   style="font-size:10px;font-family:DroidSans">P9-12</text>
+
+<g
+   id="g4102"
+   transform="matrix(1.1231957,0,0,1,162.5636,239.92537)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4104"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="390.77414"
+   x="373.92487"
+   font-size="10"
+   id="text4108"
+   style="font-size:10px;font-family:DroidSans">P9-13</text>
+
+<g
+   id="g4110"
+   transform="matrix(1.1231957,0,0,1,162.5636,266.5488)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4112"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="417.39758"
+   x="373.92487"
+   font-size="10"
+   id="text4116"
+   style="font-size:10px;font-family:DroidSans">P9-14</text>
+
+<g
+   id="g4118"
+   transform="matrix(1.1231957,0,0,1,162.5636,293.17224)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4120"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="444.02103"
+   x="373.92487"
+   font-size="10"
+   id="text4124"
+   style="font-size:10px;font-family:DroidSans">P9-15</text>
+
+<g
+   id="g4126"
+   transform="matrix(1.1231957,0,0,1,162.5636,319.79568)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4128"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="470.64444"
+   x="373.92487"
+   font-size="10"
+   id="text4132"
+   style="font-size:10px;font-family:DroidSans">P9-16</text>
+
+<g
+   id="g4134"
+   transform="matrix(1.1231957,0,0,1,162.5636,346.41911)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4136"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="497.26791"
+   x="373.92487"
+   font-size="10"
+   id="text4140"
+   style="font-size:10px;font-family:DroidSans">P9-17</text>
+
+<g
+   id="g4142"
+   transform="matrix(1.1231957,0,0,1,162.5636,373.04255)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4144"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="523.8913"
+   x="373.92487"
+   font-size="10"
+   id="text4148"
+   style="font-size:10px;font-family:DroidSans">P9-18</text>
+
+<g
+   id="g4150"
+   transform="matrix(1.1231957,0,0,1,162.5636,399.66599)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4152"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="550.51471"
+   x="373.92487"
+   font-size="10"
+   id="text4156"
+   style="font-size:10px;font-family:DroidSans">P9-19</text>
+
+<g
+   id="g4158"
+   transform="matrix(1.1231957,0,0,1,162.5636,426.28942)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4160"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="577.13818"
+   x="373.92487"
+   font-size="10"
+   id="text4164"
+   style="font-size:10px;font-family:DroidSans">P9-20</text>
+
+<g
+   id="g4166"
+   transform="matrix(1.1231957,0,0,1,162.5636,452.91286)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4168"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="603.7616"
+   x="373.92487"
+   font-size="10"
+   id="text4172"
+   style="font-size:10px;font-family:DroidSans">P9-21</text>
+
+<g
+   id="g4174"
+   transform="matrix(1.1231957,0,0,1,162.5636,479.5363)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4176"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="630.38507"
+   x="373.92487"
+   font-size="10"
+   id="text4180"
+   style="font-size:10px;font-family:DroidSans">P9-22</text>
+
+<g
+   id="g4182"
+   transform="matrix(1.1231957,0,0,1,162.5636,506.15974)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4184"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="657.00848"
+   x="373.92487"
+   font-size="10"
+   id="text4188"
+   style="font-size:10px;font-family:DroidSans">P9-23</text>
+
+<g
+   id="g4190"
+   transform="matrix(1.1231957,0,0,1,162.5636,532.78317)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4192"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="683.6319"
+   x="373.92487"
+   font-size="10"
+   id="text4196"
+   style="font-size:10px;font-family:DroidSans">P9-24</text>
+
+<g
+   id="g4198"
+   transform="matrix(1.1231957,0,0,1,162.5636,559.40661)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4200"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="710.25537"
+   x="373.92487"
+   font-size="10"
+   id="text4204"
+   style="font-size:10px;font-family:DroidSans">P9-25</text>
+
+<g
+   id="g4206"
+   transform="matrix(1.1231957,0,0,1,162.5636,586.03005)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4208"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="736.87878"
+   x="373.92487"
+   font-size="10"
+   id="text4212"
+   style="font-size:10px;font-family:DroidSans">P9-26</text>
+
+<g
+   id="g4214"
+   transform="matrix(1.1231957,0,0,1,162.5636,612.65348)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4216"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="763.50226"
+   x="373.92487"
+   font-size="10"
+   id="text4220"
+   style="font-size:10px;font-family:DroidSans">P9-27</text>
+
+<g
+   id="g4222"
+   transform="matrix(1.1231957,0,0,1,162.5636,639.27692)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4224"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="790.12567"
+   x="373.92487"
+   font-size="10"
+   id="text4228"
+   style="font-size:10px;font-family:DroidSans">P9-28</text>
+
+<g
+   id="g4230"
+   transform="matrix(1.1231957,0,0,1,162.5636,665.90036)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4232"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="816.74908"
+   x="373.92487"
+   font-size="10"
+   id="text4236"
+   style="font-size:10px;font-family:DroidSans">P9-29</text>
+
+<g
+   id="g4238"
+   transform="matrix(1.1231957,0,0,1,162.5636,692.52379)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4240"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="843.37256"
+   x="373.92487"
+   font-size="10"
+   id="text4244"
+   style="font-size:10px;font-family:DroidSans">P9-30</text>
+
+<g
+   id="g4246"
+   transform="matrix(1.1231957,0,0,1,162.5636,719.14723)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4248"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="869.99597"
+   x="373.92487"
+   font-size="10"
+   id="text4252"
+   style="font-size:10px;font-family:DroidSans">P9-31</text>
+
+<g
+   id="g4254"
+   transform="matrix(1.1231957,0,0,1,162.5636,745.77067)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4256"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="896.61938"
+   x="373.92487"
+   font-size="10"
+   id="text4260"
+   style="font-size:10px;font-family:DroidSans">P9-32</text>
+
+<g
+   id="g4262"
+   transform="matrix(1.1231957,0,0,1,162.5636,772.3941)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4264"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="923.24286"
+   x="373.92487"
+   font-size="10"
+   id="text4268"
+   style="font-size:10px;font-family:DroidSans">P9-33</text>
+
+<g
+   id="g4270"
+   transform="matrix(1.1231957,0,0,1,162.5636,799.01754)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4272"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="949.86627"
+   x="373.92487"
+   font-size="10"
+   id="text4276"
+   style="font-size:10px;font-family:DroidSans">P9-34</text>
+
+<g
+   id="g4278"
+   transform="matrix(1.1231957,0,0,1,162.5636,825.64098)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4280"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="976.48975"
+   x="373.92487"
+   font-size="10"
+   id="text4284"
+   style="font-size:10px;font-family:DroidSans">P9-35</text>
+
+<g
+   id="g4286"
+   transform="matrix(1.1231957,0,0,1,162.5636,852.26442)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4288"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="1003.1131"
+   x="373.92487"
+   font-size="10"
+   id="text4292"
+   style="font-size:10px;font-family:DroidSans">P9-36</text>
+
+<g
+   id="g4294"
+   transform="matrix(1.1231957,0,0,1,162.5636,878.88785)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4296"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="1029.7366"
+   x="373.92487"
+   font-size="10"
+   id="text4300"
+   style="font-size:10px;font-family:DroidSans">P9-37</text>
+
+<g
+   id="g4302"
+   transform="matrix(1.1231957,0,0,1,162.5636,905.51129)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4304"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="1056.36"
+   x="373.92487"
+   font-size="10"
+   id="text4308"
+   style="font-size:10px;font-family:DroidSans">P9-38</text>
+
+<g
+   id="g4310"
+   transform="matrix(1.1231957,0,0,1,162.5636,932.13473)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4312"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="1082.9834"
+   x="373.92487"
+   font-size="10"
+   id="text4316"
+   style="font-size:10px;font-family:DroidSans">P9-39</text>
+
+<g
+   id="g4318"
+   transform="matrix(1.1231957,0,0,1,162.5636,958.75813)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4320"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="1109.6068"
+   x="373.92487"
+   font-size="10"
+   id="text4324"
+   style="font-size:10px;font-family:DroidSans">P9-40</text>
+
+<g
+   id="g4326"
+   transform="matrix(1.1231957,0,0,1,162.5636,985.38157)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4328"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="1136.2303"
+   x="373.92487"
+   font-size="10"
+   id="text4332"
+   style="font-size:10px;font-family:DroidSans">P9-41</text>
+
+<g
+   id="g4334"
+   transform="matrix(1.1231957,0,0,1,162.5636,1012.0051)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4336"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="1162.8538"
+   x="373.92487"
+   font-size="10"
+   id="text4340"
+   style="font-size:10px;font-family:DroidSans">P9-42</text>
+
+<g
+   id="g4342"
+   transform="matrix(1.1231957,0,0,1,162.5636,1038.6285)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4344"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="1189.4773"
+   x="373.92487"
+   font-size="10"
+   id="text4348"
+   style="font-size:10px;font-family:DroidSans">P9-43</text>
+
+<g
+   id="g4350"
+   transform="matrix(1.1231957,0,0,1,162.5636,1065.252)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4352"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="1216.1006"
+   x="373.92487"
+   font-size="10"
+   id="text4356"
+   style="font-size:10px;font-family:DroidSans">P9-44</text>
+
+<g
+   id="g4358"
+   transform="matrix(1.1231957,0,0,1,162.5636,1091.8754)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4360"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="1242.724"
+   x="373.92487"
+   font-size="10"
+   id="text4364"
+   style="font-size:10px;font-family:DroidSans">P9-45</text>
+
+<g
+   id="g4366"
+   transform="matrix(1.1231957,0,0,1,162.5636,1118.4988)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4368"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="1269.3475"
+   x="373.92487"
+   font-size="10"
+   id="text4372"
+   style="font-size:10px;font-family:DroidSans">P9-46</text>
+
+<g
+   id="g4374"
+   transform="matrix(1.1231957,0,0,1,162.5636,1145.1223)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line4376"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><g
+   transform="matrix(1.1231957,0,0,1,-174.8944,-52.931453)"
+   id="g19-3-9"><line
+     x1="216.138"
+     y1="120.194"
+     x2="237.39799"
+     y2="120.194"
+     id="line21-8-8"
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round" /></g><text
+   style="font-size:10px;font-family:DroidSans"
+   id="text8-8-9"
+   font-size="10"
+   x="96.75"
+   y="71.291145">P8-1</text>
+
+<g
+   id="g5790"
+   transform="matrix(1.1231957,0,0,1,-174.8944,-26.308016)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5792"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="97.914589"
+   x="96.75"
+   font-size="10"
+   id="text5794"
+   style="font-size:10px;font-family:DroidSans">P8-2</text>
+
+<g
+   id="g5782"
+   transform="matrix(1.1231957,0,0,1,-174.8944,0.31542094)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5784"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="124.53802"
+   x="96.75"
+   font-size="10"
+   id="text5786"
+   style="font-size:10px;font-family:DroidSans">P8-3</text>
+
+<g
+   id="g5774"
+   transform="matrix(1.1231957,0,0,1,-174.8944,26.938858)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5776"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="151.16145"
+   x="96.75"
+   font-size="10"
+   id="text5778"
+   style="font-size:10px;font-family:DroidSans">P8-4</text>
+
+<g
+   id="g5766"
+   transform="matrix(1.1231957,0,0,1,-174.8944,53.562297)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5768"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="177.78488"
+   x="96.75"
+   font-size="10"
+   id="text5770"
+   style="font-size:10px;font-family:DroidSans">P8-5</text>
+
+<g
+   id="g5758"
+   transform="matrix(1.1231957,0,0,1,-174.8944,80.185725)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5760"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="204.40833"
+   x="96.75"
+   font-size="10"
+   id="text5762"
+   style="font-size:10px;font-family:DroidSans">P8-6</text>
+
+<g
+   id="g5750"
+   transform="matrix(1.1231957,0,0,1,-174.8944,106.80916)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5752"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="231.03175"
+   x="96.75"
+   font-size="10"
+   id="text5754"
+   style="font-size:10px;font-family:DroidSans">P8-7</text>
+
+<g
+   id="g5742"
+   transform="matrix(1.1231957,0,0,1,-174.8944,133.4326)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5744"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="257.65524"
+   x="96.75"
+   font-size="10"
+   id="text5746"
+   style="font-size:10px;font-family:DroidSans">P8-8</text>
+
+<g
+   id="g5734"
+   transform="matrix(1.1231957,0,0,1,-174.8944,160.05603)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5736"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="284.27866"
+   x="96.75"
+   font-size="10"
+   id="text5738"
+   style="font-size:10px;font-family:DroidSans">P8-9</text>
+
+<g
+   id="g5726"
+   transform="matrix(1.1231957,0,0,1,-174.8944,186.67947)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5728"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="310.9021"
+   x="96.75"
+   font-size="10"
+   id="text5730"
+   style="font-size:10px;font-family:DroidSans">P8-10</text>
+
+<g
+   id="g5718"
+   transform="matrix(1.1231957,0,0,1,-174.8944,213.30291)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5720"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="337.52554"
+   x="96.75"
+   font-size="10"
+   id="text5722"
+   style="font-size:10px;font-family:DroidSans">P8-11</text>
+
+<g
+   id="g5710"
+   transform="matrix(1.1231957,0,0,1,-174.8944,239.92635)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5712"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="364.14899"
+   x="96.75"
+   font-size="10"
+   id="text5714"
+   style="font-size:10px;font-family:DroidSans">P8-12</text>
+
+<g
+   id="g5702"
+   transform="matrix(1.1231957,0,0,1,-174.8944,266.54978)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5704"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="390.7724"
+   x="96.75"
+   font-size="10"
+   id="text5706"
+   style="font-size:10px;font-family:DroidSans">P8-13</text>
+
+<g
+   id="g5694"
+   transform="matrix(1.1231957,0,0,1,-174.8944,293.17322)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5696"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="417.39584"
+   x="96.75"
+   font-size="10"
+   id="text5698"
+   style="font-size:10px;font-family:DroidSans">P8-14</text>
+
+<g
+   id="g5686"
+   transform="matrix(1.1231957,0,0,1,-174.8944,319.79666)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5688"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="444.01929"
+   x="96.75"
+   font-size="10"
+   id="text5690"
+   style="font-size:10px;font-family:DroidSans">P8-15</text>
+
+<g
+   id="g5678"
+   transform="matrix(1.1231957,0,0,1,-174.8944,346.42009)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5680"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="470.64273"
+   x="96.75"
+   font-size="10"
+   id="text5682"
+   style="font-size:10px;font-family:DroidSans">P8-16</text>
+
+<g
+   id="g5670"
+   transform="matrix(1.1231957,0,0,1,-174.8944,373.04353)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5672"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="497.26614"
+   x="96.75"
+   font-size="10"
+   id="text5674"
+   style="font-size:10px;font-family:DroidSans">P8-17</text>
+
+<g
+   id="g5662"
+   transform="matrix(1.1231957,0,0,1,-174.8944,399.66697)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5664"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="523.88959"
+   x="96.75"
+   font-size="10"
+   id="text5666"
+   style="font-size:10px;font-family:DroidSans">P8-18</text>
+
+<g
+   id="g5654"
+   transform="matrix(1.1231957,0,0,1,-174.8944,426.2904)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5656"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="550.513"
+   x="96.75"
+   font-size="10"
+   id="text5658"
+   style="font-size:10px;font-family:DroidSans">P8-19</text>
+
+<g
+   id="g5646"
+   transform="matrix(1.1231957,0,0,1,-174.8944,452.91384)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5648"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="577.13641"
+   x="96.75"
+   font-size="10"
+   id="text5650"
+   style="font-size:10px;font-family:DroidSans">P8-20</text>
+
+<g
+   id="g5638"
+   transform="matrix(1.1231957,0,0,1,-174.8944,479.53728)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5640"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="603.75989"
+   x="96.75"
+   font-size="10"
+   id="text5642"
+   style="font-size:10px;font-family:DroidSans">P8-21</text>
+
+<g
+   id="g5630"
+   transform="matrix(1.1231957,0,0,1,-174.8944,506.16071)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5632"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="630.3833"
+   x="96.75"
+   font-size="10"
+   id="text5634"
+   style="font-size:10px;font-family:DroidSans">P8-22</text>
+
+<g
+   id="g5622"
+   transform="matrix(1.1231957,0,0,1,-174.8944,532.78415)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5624"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="657.00677"
+   x="96.75"
+   font-size="10"
+   id="text5626"
+   style="font-size:10px;font-family:DroidSans">P8-23</text>
+
+<g
+   id="g5614"
+   transform="matrix(1.1231957,0,0,1,-174.8944,559.40759)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5616"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="683.63019"
+   x="96.75"
+   font-size="10"
+   id="text5618"
+   style="font-size:10px;font-family:DroidSans">P8-24</text>
+
+<g
+   id="g5606"
+   transform="matrix(1.1231957,0,0,1,-174.8944,586.03102)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5608"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="710.2536"
+   x="96.75"
+   font-size="10"
+   id="text5610"
+   style="font-size:10px;font-family:DroidSans">P8-25</text>
+
+<g
+   id="g5598"
+   transform="matrix(1.1231957,0,0,1,-174.8944,612.65446)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5600"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="736.87708"
+   x="96.75"
+   font-size="10"
+   id="text5602"
+   style="font-size:10px;font-family:DroidSans">P8-26</text>
+
+<g
+   id="g5590"
+   transform="matrix(1.1231957,0,0,1,-174.8944,639.2779)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5592"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="763.50049"
+   x="96.75"
+   font-size="10"
+   id="text5594"
+   style="font-size:10px;font-family:DroidSans">P8-27</text>
+
+<g
+   id="g5582"
+   transform="matrix(1.1231957,0,0,1,-174.8944,665.90133)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5584"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="790.1239"
+   x="96.75"
+   font-size="10"
+   id="text5586"
+   style="font-size:10px;font-family:DroidSans">P8-28</text>
+
+<g
+   id="g5574"
+   transform="matrix(1.1231957,0,0,1,-174.8944,692.52477)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5576"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="816.74738"
+   x="96.75"
+   font-size="10"
+   id="text5578"
+   style="font-size:10px;font-family:DroidSans">P8-29</text>
+
+<g
+   id="g5566"
+   transform="matrix(1.1231957,0,0,1,-174.8944,719.14821)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5568"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="843.37079"
+   x="96.75"
+   font-size="10"
+   id="text5570"
+   style="font-size:10px;font-family:DroidSans">P8-30</text>
+
+<g
+   id="g5558"
+   transform="matrix(1.1231957,0,0,1,-174.8944,745.77165)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5560"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="869.99426"
+   x="96.75"
+   font-size="10"
+   id="text5562"
+   style="font-size:10px;font-family:DroidSans">P8-31</text>
+
+<g
+   id="g5550"
+   transform="matrix(1.1231957,0,0,1,-174.8944,772.39508)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5552"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="896.61768"
+   x="96.75"
+   font-size="10"
+   id="text5554"
+   style="font-size:10px;font-family:DroidSans">P8-32</text>
+
+<g
+   id="g5542"
+   transform="matrix(1.1231957,0,0,1,-174.8944,799.01852)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5544"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="923.24109"
+   x="96.75"
+   font-size="10"
+   id="text5546"
+   style="font-size:10px;font-family:DroidSans">P8-33</text>
+
+<g
+   id="g5534"
+   transform="matrix(1.1231957,0,0,1,-174.8944,825.64196)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5536"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="949.86456"
+   x="96.75"
+   font-size="10"
+   id="text5538"
+   style="font-size:10px;font-family:DroidSans">P8-34</text>
+
+<g
+   id="g5526"
+   transform="matrix(1.1231957,0,0,1,-174.8944,852.26539)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5528"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="976.48798"
+   x="96.75"
+   font-size="10"
+   id="text5530"
+   style="font-size:10px;font-family:DroidSans">P8-35</text>
+
+<g
+   id="g5518"
+   transform="matrix(1.1231957,0,0,1,-174.8944,878.88883)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5520"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="1003.1114"
+   x="96.75"
+   font-size="10"
+   id="text5522"
+   style="font-size:10px;font-family:DroidSans">P8-36</text>
+
+<g
+   id="g5510"
+   transform="matrix(1.1231957,0,0,1,-174.8944,905.51227)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5512"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="1029.7349"
+   x="96.75"
+   font-size="10"
+   id="text5514"
+   style="font-size:10px;font-family:DroidSans">P8-37</text>
+
+<g
+   id="g5502"
+   transform="matrix(1.1231957,0,0,1,-174.8944,932.1357)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5504"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="1056.3583"
+   x="96.75"
+   font-size="10"
+   id="text5506"
+   style="font-size:10px;font-family:DroidSans">P8-38</text>
+
+<g
+   id="g5494"
+   transform="matrix(1.1231957,0,0,1,-174.8944,958.75914)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5496"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="1082.9817"
+   x="96.75"
+   font-size="10"
+   id="text5498"
+   style="font-size:10px;font-family:DroidSans">P8-39</text>
+
+<g
+   id="g5486"
+   transform="matrix(1.1231957,0,0,1,-174.8944,985.38257)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5488"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="1109.6051"
+   x="96.75"
+   font-size="10"
+   id="text5490"
+   style="font-size:10px;font-family:DroidSans">P8-40</text>
+
+<g
+   id="g5478"
+   transform="matrix(1.1231957,0,0,1,-174.8944,1012.0061)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5480"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="1136.2286"
+   x="96.75"
+   font-size="10"
+   id="text5482"
+   style="font-size:10px;font-family:DroidSans">P8-41</text>
+
+<g
+   id="g5470"
+   transform="matrix(1.1231957,0,0,1,-174.8944,1038.6295)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5472"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="1162.8521"
+   x="96.75"
+   font-size="10"
+   id="text5474"
+   style="font-size:10px;font-family:DroidSans">P8-42</text>
+
+<g
+   id="g5462"
+   transform="matrix(1.1231957,0,0,1,-174.8944,1065.2529)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5464"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="1189.4755"
+   x="96.75"
+   font-size="10"
+   id="text5466"
+   style="font-size:10px;font-family:DroidSans">P8-43</text>
+
+<g
+   id="g5454"
+   transform="matrix(1.1231957,0,0,1,-174.8944,1091.8764)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5456"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="1216.0989"
+   x="96.75"
+   font-size="10"
+   id="text5458"
+   style="font-size:10px;font-family:DroidSans">P8-44</text>
+
+<g
+   id="g5446"
+   transform="matrix(1.1231957,0,0,1,-174.8944,1118.4998)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5448"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="1242.7223"
+   x="96.75"
+   font-size="10"
+   id="text5450"
+   style="font-size:10px;font-family:DroidSans">P8-45</text>
+
+<g
+   id="g5438"
+   transform="matrix(1.1231957,0,0,1,-174.8944,1145.1233)"><line
+     style="fill:none;stroke:#000000;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round"
+     id="line5440"
+     y2="120.194"
+     x2="237.39799"
+     y1="120.194"
+     x1="216.138" /></g><text
+   y="1269.3458"
+   x="96.75"
+   font-size="10"
+   id="text5442"
+   style="font-size:10px;font-family:DroidSans">P8-46</text>
+
+<line
+   inkscape:transform-center-y="-3.0602642"
+   inkscape:transform-center-x="-4.9999966"
+   x1="368.43082"
+   y1="1338.5198"
+   x2="368.43082"
+   y2="1314.6403"
+   id="line6061"
+   style="fill:none;stroke:#000000;stroke-width:2.54338074;stroke-linecap:round;stroke-linejoin:round" /><text
+   inkscape:transform-center-y="-6.9531235"
+   transform="matrix(0,1,-1,0,0,0)"
+   y="-365.51828"
+   x="1281.0851"
+   font-size="10"
+   id="text6063"
+   style="font-size:10px;font-family:DroidSans">P6-10</text>
+
+<line
+   inkscape:transform-center-y="-3.0602642"
+   inkscape:transform-center-x="-4.9999966"
+   x1="341.8074"
+   y1="1338.5198"
+   x2="341.8074"
+   y2="1314.6403"
+   id="line6067"
+   style="fill:none;stroke:#000000;stroke-width:2.54338074;stroke-linecap:round;stroke-linejoin:round" /><text
+   inkscape:transform-center-y="-6.9531235"
+   transform="matrix(0,1,-1,0,0,0)"
+   y="-338.89484"
+   x="1281.0851"
+   font-size="10"
+   id="text6069"
+   style="font-size:10px;font-family:DroidSans">P6-9</text>
+
+<line
+   inkscape:transform-center-y="-3.0602642"
+   inkscape:transform-center-x="-4.9999966"
+   x1="315.18396"
+   y1="1338.5198"
+   x2="315.18396"
+   y2="1314.6403"
+   id="line6073"
+   style="fill:none;stroke:#000000;stroke-width:2.54338074;stroke-linecap:round;stroke-linejoin:round" /><text
+   inkscape:transform-center-y="-6.9531235"
+   transform="matrix(0,1,-1,0,0,0)"
+   y="-312.27142"
+   x="1281.0851"
+   font-size="10"
+   id="text6075"
+   style="font-size:10px;font-family:DroidSans">P6-8</text>
+
+<line
+   inkscape:transform-center-y="-3.0602642"
+   inkscape:transform-center-x="-4.9999966"
+   x1="288.56052"
+   y1="1338.5198"
+   x2="288.56052"
+   y2="1314.6403"
+   id="line6079"
+   style="fill:none;stroke:#000000;stroke-width:2.54338074;stroke-linecap:round;stroke-linejoin:round" /><text
+   inkscape:transform-center-y="-6.9531235"
+   transform="matrix(0,1,-1,0,0,0)"
+   y="-285.64798"
+   x="1281.0851"
+   font-size="10"
+   id="text6081"
+   style="font-size:10px;font-family:DroidSans">P6-7</text>
+
+<line
+   inkscape:transform-center-y="-3.0602642"
+   inkscape:transform-center-x="-4.9999966"
+   x1="261.93707"
+   y1="1338.5198"
+   x2="261.93707"
+   y2="1314.6403"
+   id="line6085"
+   style="fill:none;stroke:#000000;stroke-width:2.54338074;stroke-linecap:round;stroke-linejoin:round" /><text
+   inkscape:transform-center-y="-6.9531235"
+   transform="matrix(0,1,-1,0,0,0)"
+   y="-259.02454"
+   x="1281.0851"
+   font-size="10"
+   id="text6087"
+   style="font-size:10px;font-family:DroidSans">P6-6</text>
+
+<line
+   inkscape:transform-center-y="-3.0602642"
+   inkscape:transform-center-x="-4.9999966"
+   x1="235.31364"
+   y1="1338.5198"
+   x2="235.31364"
+   y2="1314.6403"
+   id="line6091"
+   style="fill:none;stroke:#000000;stroke-width:2.54338074;stroke-linecap:round;stroke-linejoin:round" /><text
+   inkscape:transform-center-y="-6.9531235"
+   transform="matrix(0,1,-1,0,0,0)"
+   y="-232.40109"
+   x="1281.0851"
+   font-size="10"
+   id="text6093"
+   style="font-size:10px;font-family:DroidSans">P6-5</text>
+
+<line
+   inkscape:transform-center-y="-3.0602642"
+   inkscape:transform-center-x="-4.9999966"
+   x1="208.69022"
+   y1="1338.5198"
+   x2="208.69022"
+   y2="1314.6403"
+   id="line6097"
+   style="fill:none;stroke:#000000;stroke-width:2.54338074;stroke-linecap:round;stroke-linejoin:round" /><text
+   inkscape:transform-center-y="-6.9531235"
+   transform="matrix(0,1,-1,0,0,0)"
+   y="-205.77766"
+   x="1281.0851"
+   font-size="10"
+   id="text6099"
+   style="font-size:10px;font-family:DroidSans">P6-4</text>
+
+<line
+   inkscape:transform-center-y="-3.0602642"
+   inkscape:transform-center-x="-4.9999966"
+   x1="182.06677"
+   y1="1338.5198"
+   x2="182.06677"
+   y2="1314.6403"
+   id="line6103"
+   style="fill:none;stroke:#000000;stroke-width:2.54338074;stroke-linecap:round;stroke-linejoin:round" /><text
+   inkscape:transform-center-y="-6.9531235"
+   transform="matrix(0,1,-1,0,0,0)"
+   y="-179.15422"
+   x="1281.0851"
+   font-size="10"
+   id="text6105"
+   style="font-size:10px;font-family:DroidSans">P6-3</text>
+
+<line
+   inkscape:transform-center-y="-3.0602642"
+   inkscape:transform-center-x="-4.9999966"
+   x1="155.44334"
+   y1="1338.5198"
+   x2="155.44334"
+   y2="1314.6403"
+   id="line6109"
+   style="fill:none;stroke:#000000;stroke-width:2.54338074;stroke-linecap:round;stroke-linejoin:round" /><text
+   inkscape:transform-center-y="-6.9531235"
+   transform="matrix(0,1,-1,0,0,0)"
+   y="-152.53079"
+   x="1281.0851"
+   font-size="10"
+   id="text6111"
+   style="font-size:10px;font-family:DroidSans">P6-2</text>
+
+<line
+   inkscape:transform-center-y="-3.0602642"
+   inkscape:transform-center-x="-4.9999966"
+   x1="128.8199"
+   y1="1338.5198"
+   x2="128.8199"
+   y2="1314.6403"
+   id="line6115"
+   style="fill:none;stroke:#000000;stroke-width:2.54338074;stroke-linecap:round;stroke-linejoin:round" /><text
+   inkscape:transform-center-y="-6.9531235"
+   transform="matrix(0,1,-1,0,0,0)"
+   y="-125.90735"
+   x="1281.0851"
+   font-size="10"
+   id="text6117"
+   style="font-size:10px;font-family:DroidSans">P6-1</text>
+
+<text
+   style="font-size:10px;font-family:DroidSans"
+   id="text11-1-1"
+   font-size="10"
+   x="216.75"
+   y="1271.9568">P6 Connector</text>
+
+</svg>

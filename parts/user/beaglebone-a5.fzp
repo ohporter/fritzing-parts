@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><module fritzingVersion="0.3.5b.07.02.3238" moduleId="BeagleBoneA5">
-    <version>1</version>
+    <version>2</version>
     <author>Matt Porter</author>
     <title>BeagleBone</title>
     <label>BeagleBone</label>
-    <date>2012-04-11</date>
+    <date>2012-06-06</date>
     <tags>
         <tag>Beagleboard.org</tag>
         <tag>BeagleBone</tag>
@@ -26,6 +26,11 @@
                 <layer layerId="breadboardbreadboard"/>
             </layers>
         </breadboardView>
+        <schematicView>
+            <layers image="schematic/schematic-beaglebone-a5.svg">
+                <layer layerId="schematic"/>
+            </layers>
+        </schematicView>
     </views>
 
     <connectors>
@@ -35,6 +40,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp6-1pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp6-1pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp6-2" name="P6-2" type="female">
@@ -43,6 +51,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp6-2pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp6-2pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp6-3" name="P6-3" type="female">
@@ -51,6 +62,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp6-3pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp6-3pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp6-4" name="P6-4" type="female">
@@ -59,6 +73,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp6-4pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp6-4pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp6-5" name="P6-5" type="female">
@@ -67,6 +84,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp6-5pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp6-5pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp6-6" name="P6-6" type="female">
@@ -75,6 +95,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp6-6pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp6-6pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp6-7" name="P6-7" type="female">
@@ -83,6 +106,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp6-7pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp6-7pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp6-8" name="P6-8" type="female">
@@ -91,6 +117,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp6-8pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp6-8pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp6-9" name="P6-9" type="female">
@@ -99,6 +128,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp6-9pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp6-9pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp6-10" name="P6-10" type="female">
@@ -107,6 +139,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp6-10pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp6-10pin"/>
+                </schematicView>
             </views>
 	</connector>
 
@@ -116,6 +151,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-1pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-1pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-2" name="P8-2" type="female">
@@ -124,6 +162,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-2pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-2pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-3" name="P8-3" type="female">
@@ -132,6 +173,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-3pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-3pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-4" name="P8-4" type="female">
@@ -140,6 +184,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-4pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-4pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-5" name="P8-5" type="female">
@@ -148,6 +195,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-5pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-5pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-6" name="P8-6" type="female">
@@ -156,6 +206,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-6pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-6pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-7" name="P8-7" type="female">
@@ -164,6 +217,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-7pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-7pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-8" name="P8-8" type="female">
@@ -172,6 +228,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-8pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-8pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-9" name="P8-9" type="female">
@@ -180,6 +239,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-9pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-9pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-10" name="P8-10" type="female">
@@ -188,6 +250,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-10pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-10pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-11" name="P8-11" type="female">
@@ -196,6 +261,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-11pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-11pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-12" name="P8-12" type="female">
@@ -204,6 +272,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-12pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-12pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-13" name="P8-13" type="female">
@@ -212,6 +283,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-13pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-13pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-14" name="P8-14" type="female">
@@ -220,6 +294,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-14pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-14pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-15" name="P8-15" type="female">
@@ -228,6 +305,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-15pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-15pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-16" name="P8-16" type="female">
@@ -236,6 +316,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-16pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-16pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-17" name="P8-17" type="female">
@@ -244,6 +327,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-17pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-17pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-18" name="P8-18" type="female">
@@ -252,6 +338,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-18pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-18pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-19" name="P8-19" type="female">
@@ -260,6 +349,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-19pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-19pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-20" name="P8-20" type="female">
@@ -268,6 +360,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-20pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-20pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-21" name="P8-21" type="female">
@@ -276,6 +371,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-21pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-21pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-22" name="P8-22" type="female">
@@ -284,6 +382,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-22pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-22pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-23" name="P8-23" type="female">
@@ -292,6 +393,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-23pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-23pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-24" name="P8-24" type="female">
@@ -300,6 +404,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-24pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-24pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-25" name="P8-25" type="female">
@@ -308,6 +415,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-25pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-25pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-26" name="P8-26" type="female">
@@ -316,6 +426,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-26pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-26pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-27" name="P8-27" type="female">
@@ -324,6 +437,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-27pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-27pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-28" name="P8-28" type="female">
@@ -332,6 +448,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-28pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-28pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-29" name="P8-29" type="female">
@@ -340,6 +459,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-29pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-29pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-30" name="P8-30" type="female">
@@ -348,6 +470,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-30pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-30pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-31" name="P8-31" type="female">
@@ -356,6 +481,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-31pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-31pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-32" name="P8-32" type="female">
@@ -364,6 +492,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-32pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-32pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-33" name="P8-33" type="female">
@@ -372,6 +503,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-33pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-33pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-34" name="P8-34" type="female">
@@ -380,6 +514,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-34pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-34pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-35" name="P8-35" type="female">
@@ -388,6 +525,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-35pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-35pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-36" name="P8-36" type="female">
@@ -396,6 +536,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-36pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-36pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-37" name="P8-37" type="female">
@@ -404,6 +547,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-37pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-37pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-38" name="P8-38" type="female">
@@ -412,6 +558,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-38pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-38pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-39" name="P8-39" type="female">
@@ -420,6 +569,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-39pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-39pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-40" name="P8-40" type="female">
@@ -428,6 +580,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-40pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-40pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-41" name="P8-41" type="female">
@@ -436,6 +591,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-41pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-41pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-42" name="P8-42" type="female">
@@ -444,6 +602,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-42pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-42pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-43" name="P8-43" type="female">
@@ -452,6 +613,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-43pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-43pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-44" name="P8-44" type="female">
@@ -460,6 +624,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-44pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-44pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-45" name="P8-45" type="female">
@@ -468,6 +635,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-45pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-45pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp8-46" name="P8-46" type="female">
@@ -476,6 +646,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp8-46pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp8-46pin"/>
+                </schematicView>
             </views>
 	</connector>
 
@@ -485,6 +658,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-1pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-1pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-2" name="P9-2" type="female">
@@ -493,6 +669,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-2pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-2pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-3" name="P9-3" type="female">
@@ -501,6 +680,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-3pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-3pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-4" name="P9-4" type="female">
@@ -509,6 +691,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-4pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-4pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-5" name="P9-5" type="female">
@@ -517,6 +702,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-5pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-5pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-6" name="P9-6" type="female">
@@ -525,6 +713,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-6pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-6pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-7" name="P9-7" type="female">
@@ -533,6 +724,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-7pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-7pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-8" name="P9-8" type="female">
@@ -541,6 +735,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-8pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-8pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-9" name="P9-9" type="female">
@@ -549,6 +746,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-9pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-9pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-10" name="P9-10" type="female">
@@ -557,6 +757,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-10pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-10pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-11" name="P9-11" type="female">
@@ -565,6 +768,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-11pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-11pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-12" name="P9-12" type="female">
@@ -573,6 +779,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-12pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-12pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-13" name="P9-13" type="female">
@@ -581,6 +790,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-13pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-13pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-14" name="P9-14" type="female">
@@ -589,6 +801,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-14pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-14pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-15" name="P9-15" type="female">
@@ -597,6 +812,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-15pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-15pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-16" name="P9-16" type="female">
@@ -605,6 +823,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-16pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-16pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-17" name="P9-17" type="female">
@@ -613,6 +834,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-17pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-17pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-18" name="P9-18" type="female">
@@ -621,6 +845,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-18pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-18pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-19" name="P9-19" type="female">
@@ -629,6 +856,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-19pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-19pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-20" name="P9-20" type="female">
@@ -637,6 +867,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-20pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-20pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-21" name="P9-21" type="female">
@@ -645,6 +878,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-21pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-21pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-22" name="P9-22" type="female">
@@ -653,6 +889,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-22pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-21pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-23" name="P9-23" type="female">
@@ -661,6 +900,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-23pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-22pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-24" name="P9-24" type="female">
@@ -669,6 +911,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-24pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-24pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-25" name="P9-25" type="female">
@@ -677,6 +922,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-25pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-25pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-26" name="P9-26" type="female">
@@ -685,6 +933,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-26pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-26pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-27" name="P9-27" type="female">
@@ -693,6 +944,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-27pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-27pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-28" name="P9-28" type="female">
@@ -701,6 +955,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-28pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-28pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-29" name="P9-29" type="female">
@@ -709,6 +966,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-29pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-29pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-30" name="P9-30" type="female">
@@ -717,6 +977,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-30pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-30pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-31" name="P9-31" type="female">
@@ -725,6 +988,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-31pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-31pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-32" name="P9-32" type="female">
@@ -733,6 +999,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-32pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-32pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-33" name="P9-33" type="female">
@@ -741,6 +1010,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-33pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-33pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-34" name="P9-34" type="female">
@@ -749,6 +1021,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-34pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-34pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-35" name="P9-35" type="female">
@@ -757,6 +1032,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-35pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-35pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-36" name="P9-36" type="female">
@@ -765,6 +1043,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-36pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-36pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-37" name="P9-37" type="female">
@@ -773,6 +1054,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-37pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-37pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-38" name="P9-38" type="female">
@@ -781,6 +1065,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-38pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-38pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-39" name="P9-39" type="female">
@@ -789,6 +1076,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-39pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-39pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-40" name="P9-40" type="female">
@@ -797,6 +1087,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-40pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-40pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-41" name="P9-41" type="female">
@@ -805,6 +1098,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-41pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-41pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-42" name="P9-42" type="female">
@@ -813,6 +1109,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-42pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-42pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-43" name="P9-43" type="female">
@@ -821,6 +1120,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-43pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-43pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-44" name="P9-44" type="female">
@@ -829,6 +1131,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-44pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-44pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-45" name="P9-45" type="female">
@@ -837,6 +1142,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-45pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-45pin"/>
+                </schematicView>
             </views>
 	</connector>
         <connector id="connectorp9-46" name="P9-46" type="female">
@@ -845,6 +1153,9 @@
                 <breadboardView>
                     <p layer="breadboardbreadboard" svgId="connectorp9-46pin"/>
                 </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="connectorp9-46pin"/>
+                </schematicView>
             </views>
 	</connector>
 

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><module fritzingVersion="0.3.5b.07.02.3238" moduleId="Adafruit18LCD">
+    <version>1</version>
+    <author>Matt Porter</author>
+    <title>Adafruit 1.8" 160x128 SPI LCD</title>
+    <label>Adafruit 1.8" LCD</label>
+    <date>2012-06-07</date>
+    <tags>
+        <tag>Adafruit</tag>
+        <tag>LCD</tag>
+        <tag>fritzing user</tag>
+    </tags>
+    <properties>
+        <property name="resolution">160x128</property>
+        <property name="family">Display</property>
+        <property name="type">Adafruit 1.8" SPI LCD</property>
+    </properties>
+    <description>1.8" 160x128 TFT SPI LCD</description>
+    <views>
+        <iconView>
+            <layers image="icon/icon-adafruit-18-lcd.svg">
+                <layer layerId="icon"/>
+            </layers>
+        </iconView>
+        <breadboardView>
+            <layers image="breadboard/breadboard-adafruit-18-lcd.svg">
+                <layer layerId="breadboardbreadboard"/>
+            </layers>
+        </breadboardView>
+    </views>
+
+    <connectors>
+        <connector id="pin1" name="P1" type="male">
+            <description>Ground</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="pin1"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="pin2" name="P2" type="male">
+            <description>Vcc</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="pin2"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="pin3" name="P3" type="male">
+            <description>Reset</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="pin3"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="pin4" name="P4" type="male">
+            <description>Data/Command</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="pin4"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="pin5" name="P5" type="male">
+            <description>Card CS</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="pin5"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="pin6" name="P6" type="male">
+            <description>TFT CS</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="pin6"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="pin7" name="P7" type="male">
+            <description>MOSI</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="pin7"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="pin8" name="P8" type="male">
+            <description>SCK</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="pin8"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="pin9" name="P9" type="male">
+            <description>MISO</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="pin9"/>
+                </breadboardView>
+            </views>
+	</connector>
+        <connector id="pin10" name="P10" type="male">
+            <description>Backlight</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboardbreadboard" svgId="pin10"/>
+                </breadboardView>
+            </views>
+	</connector>
+
+    </connectors>
+
+</module>

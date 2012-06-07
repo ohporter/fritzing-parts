@@ -2,6 +2,7 @@
     <version>1</version>
     <author>Matt Porter</author>
     <title>Adafruit 1.8" 160x128 SPI LCD</title>
+    <url>https://www.adafruit.com/products/358</url>
     <label>Adafruit 1.8" LCD</label>
     <date>2012-06-07</date>
     <tags>
